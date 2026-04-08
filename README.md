@@ -15,7 +15,7 @@ Visualization: Power BI Desktop
 - **Power BI Dashboard:** [Social Media Engagement & Campaign Performance Dashboard.pbix](./Social%20Media%20Engagement%20&%20Campaign%20Performance%20Dashboard.pbix)
 
 📊 Dashboard Preview
-![Social Media Dashboard](./dashboard.png)
+![Social Media Dashboard](./Dashboard.png)
 
 
 🧠 Key Data Challenges (The "Cleaning" Process)
